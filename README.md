@@ -1,5 +1,5 @@
-# Python Starter
-
-Quickly get started with [Python](https://www.python.org/) using this starter! 
-
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.codesandbox/Dockerfile).
+# Fabric Scraper
+Scrapes the sites of the three main providers of solid fabric:
+ - Andover Fabrics
+ - Kona Cotton (Robert Kaufman)
+ - Bella Solids (Moda Fabrics)

@@ -1,0 +1,38 @@
+[
+  {
+    "BaseURL": "https://www.andoverfabrics.com",
+    "swatchListURL": "https://www.andoverfabrics.com/Grid.php?groupId=26531&GroupName=Century%20Solids",
+    "groupName": "Century Solids",
+    "companyName": "Andover Fabrics"
+  },
+  {
+    "BaseURL": "https://www.andoverfabrics.com",
+    "swatchListURL": "https://www.andoverfabrics.com/Grid.php?groupId=26800&GroupName=Century%20Solids%20-%20Berry",
+    "groupName": "Century Solids - Berry",
+    "companyName": "Andover Fabrics"
+  },
+  {
+    "BaseURL": "https://www.andoverfabrics.com",
+    "swatchListURL": "https://www.andoverfabrics.com/Grid.php?groupId=26801&GroupName=Century%20Solids%20-%20Citrus",
+    "groupName": "Century Solids - Citrus",
+    "companyName": "Andover Fabrics"
+  },
+  {
+    "BaseURL": "https://www.andoverfabrics.com",
+    "swatchListURL": "https://www.andoverfabrics.com/Grid.php?groupId=26802&GroupName=Century%20Solids%20-%20Neutral",
+    "groupName": "Century Solids - Neutral",
+    "companyName": "Andover Fabrics"
+  },
+  {
+    "BaseURL": "https://www.andoverfabrics.com",
+    "swatchListURL": "https://www.andoverfabrics.com/Grid.php?groupId=26803&GroupName=Century%20Solids%20-%20Ocean",
+    "groupName": "Century Solids - Ocean",
+    "companyName": "Andover Fabrics"
+  },
+  {
+    "BaseURL": "https://www.andoverfabrics.com",
+    "swatchListURL": "https://www.andoverfabrics.com/Grid.php?groupId=26967&GroupName=Laundry%20Basket%20Quilts%20Century%20Solids",
+    "groupName": "Laundry Basket Quilts Century Solids",
+    "companyName": "Andover Fabrics"
+  }
+]
