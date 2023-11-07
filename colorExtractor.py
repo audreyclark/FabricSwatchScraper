@@ -10,7 +10,7 @@ import numpy as np
 def rgb_to_hex(rgb):
     return '#{:02x}{:02x}{:02x}'.format(*rgb)
 
-# Function to extract color from an image
+# Function to extract color from an solid color image
 
 
 def extract_color(image_url):
