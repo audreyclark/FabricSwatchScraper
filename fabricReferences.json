@@ -1,5 +1,11 @@
 [
   {
+    "BaseURL": "https://www.robertkaufman.com/",
+    "swatchListURL": "https://www.robertkaufman.com/fabrics/kona_cotton/?page=All#products",
+    "groupName": "Kona Cotton",
+    "companyName": "Robert Kaufman Fabrics"
+  },
+  {
     "BaseURL": "https://www.andoverfabrics.com",
     "swatchListURL": "https://www.andoverfabrics.com/Grid.php?groupId=26531&GroupName=Century%20Solids",
     "groupName": "Century Solids",
