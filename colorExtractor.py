@@ -16,8 +16,8 @@ def rgb_to_hex(rgb):
 def extract_color(image_url):
     response = requests.get(image_url)
     image = Image.open(BytesIO(response.content))
-    # Since it's a solid color, take the top-left pixel
-    color = np.array(image)[0][0]
+    # Since it's a solid color, take the mid pixel
+    color = np.array(image)[50][50]
     return rgb_to_hex(color)
 
 

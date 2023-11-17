@@ -40,14 +40,20 @@ def main():
                     # companyNames.append(ref["companyName"])
                     print("skipping andover")
                 case "https://modafabrics.com/":
-                    handleModa(soup, baseURL)
-                case "https://www.robertkaufman.com/":
-                    returnedArray = handleRK(soup, baseURL)
+                    returnedArray = handleModa(soup, baseURL)
                     titles.extend(returnedArray[0])
                     imgLinks.extend(returnedArray[1])
                     for t in returnedArray[0]:
                         collectionNames.append(ref["groupName"])
                         companyNames.append(ref["companyName"])
+                case "https://www.robertkaufman.com/":
+                    # returnedArray = handleRK(soup, baseURL)
+                    # titles.extend(returnedArray[0])
+                    # imgLinks.extend(returnedArray[1])
+                    # for t in returnedArray[0]:
+                    # collectionNames.append(ref["groupName"])
+                    # companyNames.append(ref["companyName"])
+                    print("skipping RK")
                 case _:
                     print("ERROR: baseURL didn't match expected. BaseURL: " + baseURL)
 
@@ -87,7 +93,23 @@ def handleAndover(soup, baseURL):
 
 # Moda fabrics lets you download a zip file of images
 def handleModa(soup, baseURL):
-    print("Todo: Handle Moda")
+    tempTitles = []
+    tempImgLinks = []
+    swatch_divs = soup.find_all('div', class_='mk-category-grid-img')
+
+    # loop through each element, getting image, title
+    for container in swatch_divs:
+        # get img tag
+        imgElement = container.a.img
+        # name
+        name = imgElement.get('title').replace(
+            "Bella Solids         ", "").replace("     Moda         #1", "")
+        tempTitles.append(name)
+
+        # imgLink
+        cleanedLink = imgElement.get('src')
+        tempImgLinks.append(cleanedLink)
+    return ([tempTitles, tempImgLinks])
 
 
 def handleRK(soup, baseURL):

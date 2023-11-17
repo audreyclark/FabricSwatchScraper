@@ -1,5 +1,59 @@
 [
   {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=0",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=1",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=2",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=3",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=4",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=5",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=6",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=7",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
+    "BaseURL": "https://modafabrics.com/",
+    "swatchListURL": "https://shop.modafabrics.com/search?searchString=Bella+Solids+Moda&categoryCode=bella-solids-102401&facets=productRecordManufacturerCode_s%7CMODA&facets=user4_s%7C100%25+USA+Grown+Cotton&facets=fg_designer%7CModa&facets=fg_type_size%7C44+in+-+45+in+Wide&page=8",
+    "groupName": "Bella Solids",
+    "companyName": "Moda Fabrics"
+  },
+  {
     "BaseURL": "https://www.robertkaufman.com/",
     "swatchListURL": "https://www.robertkaufman.com/fabrics/kona_cotton/?page=All#products",
     "groupName": "Kona Cotton",
